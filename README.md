@@ -1,9 +1,19 @@
-Project Name	: Sikampus [Back End Panel]
+Sikampus
+=========================
 
-Author			: justudin
+Information System for University in Jogja:
+This Source just the back end Panel.
 
-Email			: udinjust4u@yahoo.com
+How to use?
+-----------
+Just Copy and Paste the source in the htdocs / www directory!:
 
-linkedin		: www.linkedin.com/in/justudin
+License
+--------
+Free and Open Source, Feel free to use and modified it.
 
-Specification	: Sistem Informasi Kampus Se Jogja
+Contact
+-------
+You can contact me via:
+Email : just.udin@yahoo.com:
+linkedin		: ]www.linkedin.com/in/justudin:
